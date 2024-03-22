@@ -1,5 +1,10 @@
 {
   "src": [
-    "pages/Index"
+    "pages/Index",
+    "pages/area",
+    "pages/route",
+    "pages/weather",
+    "pages/traffic",
+    "pages/bus"
   ]
 }
